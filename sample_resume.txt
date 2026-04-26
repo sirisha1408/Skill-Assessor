@@ -1,0 +1,25 @@
+Jane Doe
+Frontend Engineer
+Email: jane.doe@example.com | Phone: 555-0198
+
+Summary
+Enthusiastic and detail-oriented Frontend Engineer with 4 years of experience building scalable web applications. Proficient in JavaScript and React, with a strong focus on creating intuitive user experiences.
+
+Experience
+Frontend Engineer | Tech Solutions Inc. | 2021 - Present
+- Developed and maintained responsive web applications using React.js and JavaScript (ES6+).
+- Collaborated with the design team to implement pixel-perfect UI components from Figma mockups.
+- Improved application load time by 30% through code splitting and lazy loading techniques.
+- Integrated various REST APIs to display real-time data on the dashboard.
+- Utilized Git for version control and participated in regular code reviews.
+
+Junior Web Developer | Creative Web Agency | 2019 - 2021
+- Assisted in the development of client websites using HTML, CSS, and vanilla JavaScript.
+- Learned and applied basic React concepts for smaller interactive components.
+- Maintained and updated existing websites, ensuring cross-browser compatibility.
+
+Skills
+Languages: JavaScript (ES6+), HTML5, CSS3
+Frameworks/Libraries: React.js
+Tools: Git, npm, Webpack
+Other: REST API Integration, Responsive Design

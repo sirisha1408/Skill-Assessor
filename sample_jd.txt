@@ -1,0 +1,30 @@
+Frontend Developer
+Acme Corp
+
+About the role:
+We are looking for an experienced Frontend Developer to build dynamic, responsive web applications. You will be responsible for creating modern user interfaces using React and translating designs into high-quality code.
+
+Key Responsibilities:
+- Develop new user-facing features using React.js and modern JavaScript (ES6+).
+- Build reusable components and front-end libraries for future use.
+- Translate designs and wireframes into high quality, responsive code using CSS3 and HTML5.
+- Optimize components for maximum performance across a vast array of web-capable devices and browsers.
+- Work closely with backend developers to integrate RESTful APIs.
+- Collaborate with designers to iterate on UI/UX.
+
+Requirements:
+- Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model.
+- Thorough understanding of React.js and its core principles.
+- Experience with popular React workflows (such as Flux or Redux).
+- Familiarity with newer specifications of EcmaScript.
+- Experience with data structure libraries (e.g., Immutable.js).
+- Knowledge of modern authorization mechanisms, such as JSON Web Token.
+- Familiarity with modern front-end build pipelines and tools.
+- Experience with common front-end development tools such as Babel, Webpack, NPM, etc.
+- Ability to understand business requirements and translate them into technical requirements.
+- A knack for benchmarking and optimization.
+
+Nice to have:
+- Experience with TypeScript.
+- Experience with Next.js or other SSR frameworks.
+- Familiarity with Git.
